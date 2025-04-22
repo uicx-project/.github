@@ -11,4 +11,5 @@ It may seems simple at first but when you want to build robust application you n
 ## Quick links
 
 <!-- BLOG-POST-LIST:START -->
+- [The basics](https://uicx-project.github.io/basic-concept)
 <!-- BLOG-POST-LIST:END -->
