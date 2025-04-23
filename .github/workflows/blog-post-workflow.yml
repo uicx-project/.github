@@ -19,3 +19,4 @@ jobs:
           max_post_count: 10
           disable_sort: true
           feed_list: "https://uicx-project.github.io/feed.xml"
+          readme_path: "./profile/README.md"
